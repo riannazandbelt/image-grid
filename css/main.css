@@ -71,12 +71,18 @@ section {
     width: 33.333%;
   }
 
-
 }
 
 @media only screen and (min-width: 60em) {
 
+  .photo:nth-child(1){
+    width: 66.666%;
+  }
 
+  .photo:nth-child(5){
+    display: block;
+    width: 33.333%;
+  }
 }
 
 @media only screen and (min-width: 90em) {
