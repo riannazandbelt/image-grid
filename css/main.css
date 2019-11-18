@@ -32,7 +32,6 @@ section {
   width: 100%;
 }
 
-
 @media only screen and (min-width: 20em) {
 
   .photo:nth-child(2),
@@ -75,17 +74,13 @@ section {
 
 @media only screen and (min-width: 60em) {
 
-  .photo:nth-child(1){
+  .photo:nth-child(1) {
     width: 66.6666%;
   }
 
-  .photo:nth-child(5){
+  .photo:nth-child(5) {
     display: block;
     width: 33.3333%;
   }
-}
-
-@media only screen and (min-width: 90em) {
-
 
 }
